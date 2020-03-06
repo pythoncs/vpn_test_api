@@ -4,7 +4,7 @@
 
 ### 数据库 Collections 介绍
 
-该项目分为三个cellection，分别为userInfos(用户信息)、products(产品信息)、orders(订单信息)
+该项目分为三个collection，分别为userInfos(用户信息)、products(产品信息)、orders(订单信息)
 
 ---
 
